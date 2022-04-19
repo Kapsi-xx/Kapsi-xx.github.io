@@ -16,7 +16,7 @@
 }
 
 body {
-  background-color : #ffffff;
+  background-color : #ebaca2;
   color            : #000000;
   font-family      : Helvetica,Arial;
   text-align       : center;
@@ -34,8 +34,7 @@ body {
 }
 
 header {
-  background-color : #d3d3d3;
-  background-image : url('/assets/banniere-alpha.png')
+  background-color : #ce6a6b;
 }
 
 header .wrapper {
@@ -102,7 +101,7 @@ a {
   border-top-right-radius    : 20px;
   border-bottom-right-radius : 20px;
   border-bottom-left-radius  : 20px;
-  background-color           : #d3d3d3;
+  background-color           : #ce6a6b;
   margin-bottom              : 20px;
 }
 
@@ -126,8 +125,8 @@ a {
 
 .tag-list li, .tag {
   display                    : inline-block;
-  background-color           : #000000;
-  color                      : #ffffff;
+  background-color           : #bed3c3;
+  color                      : #000000;
   padding-top                : 4px;
   padding-bottom             : 4px;
   padding-right              : 6px;
@@ -166,7 +165,7 @@ a {
 }
 
 footer {
-  color : #808080;
+  color : #ffffff;
 }
 
 .image {
@@ -177,7 +176,7 @@ footer {
 @media only screen and (prefers-color-scheme: dark) {
 
 body {
-  background-color : #282828;
+  background-color : #4a919e;
 }
 
 body, header .site-name {
@@ -185,11 +184,17 @@ body, header .site-name {
 }
 
 .item-list > li {
-  background-color : #696969;
+  background-color : #212e53;
 }
 
 header {
-  background-color : #000000;
+  background-color : #212e53;
+}
+
+.tag-list li, .tag {
+  display          : inline-block;
+  background-color : #bed3c3;
+  color            : #000000;
 }
 
 }

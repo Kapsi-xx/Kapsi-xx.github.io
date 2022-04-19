@@ -34,7 +34,8 @@ body {
 }
 
 header {
-  background-color : #eeeeee;
+  background-color : #d3d3d3;
+  background-image : url('/assets/banniere-alpha.png')
 }
 
 header .wrapper {
@@ -101,7 +102,7 @@ a {
   border-top-right-radius    : 20px;
   border-bottom-right-radius : 20px;
   border-bottom-left-radius  : 20px;
-  background-color           : #eeeeee;
+  background-color           : #d3d3d3;
   margin-bottom              : 20px;
 }
 
@@ -126,7 +127,7 @@ a {
 .tag-list li, .tag {
   display                    : inline-block;
   background-color           : #000000;
-  color                      : #dddddd;
+  color                      : #ffffff;
   padding-top                : 4px;
   padding-bottom             : 4px;
   padding-right              : 6px;
@@ -165,7 +166,7 @@ a {
 }
 
 footer {
-  color : #8a8a8a;
+  color : #808080;
 }
 
 .image {
@@ -176,15 +177,15 @@ footer {
 @media only screen and (prefers-color-scheme: dark) {
 
 body {
-  background-color : #222222;
+  background-color : #282828;
 }
 
 body, header .site-name {
-  color : #dddddd;
+  color : #ffffff;
 }
 
 .item-list > li {
-  background-color : #333333;
+  background-color : #696969;
 }
 
 header {

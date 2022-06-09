@@ -36,7 +36,7 @@ Enfin, les réalisations privilégieront la réalité de l'accord, comme dit Cam
 
 Les exemples musicaux sont transcrits sur trois portées, du bas en haut :
 
-![La mineur Parfait](/assets/laMineur/LaMineur-01.svg)
+![La mineur Parfait](https://github.com/Kapsi-xx/Kapsi-xx.github.io/blob/main/assets/LaMineur/LaMineur-01.svg)
 
 + la basse chiffrée (en clef de Fa),
 + la réalisation (en clef de Sol 8va bassa) avec, en-dessous, la disposition des notes de l'accord comptée en intervalles à partir de la basse (à la Dandrieu),

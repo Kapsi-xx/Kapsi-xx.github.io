@@ -26,7 +26,7 @@ Pour chaque accord, on cherchera les positions avec tous les dessus possibles. P
 
 On imposera que la basse soit toujours touchée par le pouce, sur l'une des trois cordes, Sol, Ré ou La (ou pour le théorbe, sur le registre grave, à vide de Sol1 à Mi2, à vide ou sur la première touche pour Sol2 - ⑦ et Fa2 - ⑧).
 
-On mettra en évidence des positions glissantes, ce qui permettra de déduire facilement les accords et enchainements dans d'autres tonalités à partir des tonalités courantes, en identifiant les diagrammes d'accord, quand la basse est sur une de ces trois cordes.
+On mettra en évidence des positions glissantes, ce qui permettra de déduire facilement les accords et enchainements dans d'autres tonalités à partir des tonalités courantes, en identifiant les diagrammes d'accord (ou image comme le dit Campion), quand la basse est sur une de ces trois cordes.
 
 En suivant Dandrieu, les réalisations seront faites en général à quatre voix. Toutefois, quand il est possible d'utiliser le plus grand nombre possible de cordes (pour les battues par exemple), nous indiquerons les positions les plus complètes possibles (jusqu'à six voix). A l'inverse, nous verrons que certains accords ne sont possibles sur le théorbe qu'à trois voix.
 
@@ -40,7 +40,7 @@ Les exemples musicaux sont transcrits sur trois portées, du bas en haut :
 
 + la basse chiffrée (en clef de Fa),
 + la réalisation (en clef de Sol 8va bassa) avec, en-dessous, la disposition des notes de l'accord comptée en intervalles à partir de la basse (à la Dandrieu),
-+ la tablature en notation française. Au dessus de la tablature, les diagrammes d'accord sont ajoutés quand l'accord peut être glissé sur d'autres positions de la touche du théorbe.
++ la tablature en notation française. Au dessus de la tablature, les diagrammes d'accord (ou image) sont ajoutés quand l'accord peut être glissé sur d'autres positions de la touche du théorbe.
 
 ## Remerciements
 

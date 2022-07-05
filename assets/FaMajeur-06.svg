@@ -91,11 +91,13 @@
 <polyline class="FretDiagram" stroke="#fc02ff" stroke-width="4.76" stroke-linejoin="bevel" points="1450.26,396.51 1658.61,396.51"/>
 <path class="FretDiagram" fill="#fc02ff" fill-rule="evenodd" d="M1506.51,277.455 C1506.51,285.51 1499.98,292.039 1491.93,292.039 C1483.88,292.039 1477.35,285.51 1477.35,277.455 C1477.35,269.401 1483.88,262.871 1491.93,262.871 C1499.98,262.871 1506.51,269.401 1506.51,277.455"/>
 <path class="FretDiagram" fill="#fc02ff" fill-rule="evenodd" d="M1589.85,229.833 C1589.85,237.888 1583.32,244.417 1575.27,244.417 C1567.21,244.417 1560.68,237.888 1560.68,229.833 C1560.68,221.778 1567.21,215.249 1575.27,215.249 C1583.32,215.249 1589.85,221.778 1589.85,229.833"/>
-<path class="FretDiagram" fill="#fc02ff" fill-rule="evenodd" d="M1631.52,325.077 C1631.52,333.132 1624.99,339.661 1616.94,339.661 C1608.88,339.661 1602.35,333.132 1602.35,325.077 C1602.35,317.023 1608.88,310.493 1616.94,310.493 C1624.99,310.493 1631.52,317.023 1631.52,325.077"/>
-<path class="FretDiagram" fill="#fc02ff" fill-rule="evenodd" d="M1673.19,325.077 C1673.19,333.132 1666.66,339.661 1658.61,339.661 C1650.55,339.661 1644.02,333.132 1644.02,325.077 C1644.02,317.023 1650.55,310.493 1658.61,310.493 C1666.66,310.493 1673.19,317.023 1673.19,325.077"/>
 <polyline class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" points="1433.59,141.732 1466.93,175.068"/>
 <polyline class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" points="1433.59,175.068 1466.93,141.732"/>
 <path class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" fill-rule="evenodd" d="M1550.27,158.4 C1550.27,167.605 1542.8,175.068 1533.6,175.068 C1524.39,175.068 1516.93,167.605 1516.93,158.4 C1516.93,149.195 1524.39,141.732 1533.6,141.732 C1542.8,141.732 1550.27,149.195 1550.27,158.4"/>
+<polyline class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" points="1600.27,141.732 1633.61,175.068"/>
+<polyline class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" points="1600.27,175.068 1633.61,141.732"/>
+<polyline class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" points="1641.94,141.732 1675.27,175.068"/>
+<polyline class="FretDiagram" fill="none" stroke="#fc02ff" stroke-width="6.86" stroke-linecap="round" stroke-linejoin="bevel" points="1641.94,175.068 1675.27,141.732"/>
 <polyline class="FretDiagram" fill="#fc02ff" stroke="#fc02ff" stroke-width="11.91" stroke-linejoin="bevel" points="3242.32,206.022 3455.42,206.022"/>
 <polyline class="FretDiagram" fill="#fc02ff" stroke="#fc02ff" stroke-width="4.76" stroke-linejoin="bevel" points="3244.7,206.022 3244.7,420.321"/>
 <polyline class="FretDiagram" fill="#fc02ff" stroke="#fc02ff" stroke-width="4.76" stroke-linejoin="bevel" points="3286.37,206.022 3286.37,420.321"/>

@@ -60,6 +60,96 @@ footer {
   background-color : #BED3C3;
 }
 
+.tg {
+  border-collapse : collapse;
+  margin-top      : 10px;
+  margin-bottom   : 10px;
+  margin-right    : auto;
+  margin-left     : auto;
+}
+
+.tg td {
+  border-top-color    : #000000;
+  border-right-color  : #000000;
+  border-bottom-color : #000000;
+  border-left-color   : #000000;
+  border-top-style    : solid;
+  border-right-style  : solid;
+  border-bottom-style : solid;
+  border-left-style   : solid;
+  border-top-width    : 2px;
+  border-right-width  : 2px;
+  border-bottom-width : 2px;
+  border-left-width   : 2px;
+  font-family         : Arial,sans-serif;
+  font-size           : 14px;
+  overflow            : hidden;
+  padding-top         : 15px;
+  padding-bottom      : 15px;
+  padding-right       : 10px;
+  padding-left        : 10px;
+}
+
+.tg th {
+  border-top-color    : #000000;
+  border-right-color  : #000000;
+  border-bottom-color : #000000;
+  border-left-color   : #000000;
+  border-top-style    : solid;
+  border-right-style  : solid;
+  border-bottom-style : solid;
+  border-left-style   : solid;
+  border-top-width    : 2px;
+  border-right-width  : 2px;
+  border-bottom-width : 2px;
+  border-left-width   : 2px;
+  font-family         : Arial,sans-serif;
+  font-size           : 14px;
+  font-weight         : normal;
+  overflow            : hidden;
+  padding-top         : 15px;
+  padding-bottom      : 15px;
+  padding-right       : 10px;
+  padding-left        : 10px;
+}
+
+.tg .tg-wp8o {
+  border-top-color    : #000000;
+  border-right-color  : #000000;
+  border-bottom-color : #000000;
+  border-left-color   : #000000;
+  text-align          : center;
+  vertical-align      : middle;
+}
+
+.tg .tg-mqa1 {
+  border-top-color    : #000000;
+  border-right-color  : #000000;
+  border-bottom-color : #000000;
+  border-left-color   : #000000;
+  font-weight         : bold;
+  text-align          : center;
+  vertical-align      : middle;
+}
+
+.tg .tg-mcqj {
+  border-top-color    : #000000;
+  border-right-color  : #000000;
+  border-bottom-color : #000000;
+  border-left-color   : #000000;
+  font-weight         : bold;
+  text-align          : left;
+  vertical-align      : top;
+}
+
+.tg .tg-col {
+  width : 80px;
+}
+
+.tg .tg-colh {
+  width : 72px;
+}
+
 * {
   margin-top         : 0;
   margin-right       : 0;

@@ -297,6 +297,17 @@ a {
 
 @media only screen and (max-width: 600px) {
 
+.tg {
+  max-width      : 400px;
+  display        : block;
+  margin-top     : 10px;
+  margin-bottom  : 10px;
+  margin-right   : auto;
+  margin-left    : auto;
+  overflow-x     : auto;
+  border-spacing : 0;
+}
+
 .tg td, .tg th {
   padding-top       : 15px;
   padding-bottom    : 15px;

@@ -60,6 +60,14 @@ footer {
   background-color : #BED3C3;
 }
 
+.tg {
+  border-collapse : collapse;
+  margin-top      : 10px;
+  margin-bottom   : 10px;
+  margin-right    : auto;
+  margin-left     : auto;
+}
+
 .tg, .tg td, .tg th {
   border-top-color    : #000000;
   border-right-color  : #000000;
@@ -77,37 +85,21 @@ footer {
   font-size           : 14px;
 }
 
-.tg {
-  max-width      : 400px;
-  display        : block;
-  margin-top     : 10px;
-  margin-bottom  : 10px;
-  margin-right   : auto;
-  margin-left    : auto;
-  overflow-x     : auto;
-  border-spacing : 0;
-}
-
-.tg td, .tg th {
-  padding-top       : 15px;
-  padding-bottom    : 15px;
-  padding-right     : 10px;
-  padding-left      : 10px;
-  border-top-width  : 0;
-  border-left-width : 0;
+.tg td {
+  overflow       : hidden;
+  padding-top    : 15px;
+  padding-bottom : 15px;
+  padding-right  : 10px;
+  padding-left   : 10px;
 }
 
 .tg th {
-  position : sticky;
-  top      : 0;
-}
-
-.tg th > :last-child, .tg td > :last-child {
-  border-right-width : 0;
-}
-
-.tg tr > :last-child td {
-  border-bottom-width : 0;
+  font-weight    : normal;
+  overflow       : hidden;
+  padding-top    : 15px;
+  padding-bottom : 15px;
+  padding-right  : 10px;
+  padding-left   : 10px;
 }
 
 .tg .tg-wp8o {
@@ -122,8 +114,17 @@ footer {
 }
 
 .tg .tg-mcqj {
-  font-weight : bold;
-  text-align  : left;
+  font-weight    : bold;
+  text-align     : left;
+  vertical-align : top;
+}
+
+.tg .tg-col {
+  width : 80px;
+}
+
+.tg .tg-colh {
+  width : 72px;
 }
 
 * {
@@ -294,6 +295,31 @@ a {
   margin-bottom : 20px;
 }
 
+@media only screen and (max-width: 600px) {
+
+.tg td, .tg th {
+  padding-top       : 15px;
+  padding-bottom    : 15px;
+  padding-right     : 10px;
+  padding-left      : 10px;
+  border-top-width  : 0;
+  border-left-width : 0;
+}
+
+.tg th {
+  position : sticky;
+  top      : 0;
+}
+
+.tg th > :last-child, .tg td > :last-child {
+  border-right-width : 0;
+}
+
+.tg tr > :last-child td {
+  border-bottom-width : 0;
+}
+
+}
 @media only screen and (max-width: 600px) {
 
 .wrapper {

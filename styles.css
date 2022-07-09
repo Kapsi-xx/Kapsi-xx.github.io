@@ -60,15 +60,7 @@ footer {
   background-color : #BED3C3;
 }
 
-.tg {
-  border-collapse : collapse;
-  margin-top      : 10px;
-  margin-bottom   : 10px;
-  margin-right    : auto;
-  margin-left     : auto;
-}
-
-.tg td {
+.tg, .tg td, .tg th {
   border-top-color    : #000000;
   border-right-color  : #000000;
   border-bottom-color : #000000;
@@ -83,71 +75,55 @@ footer {
   border-left-width   : 2px;
   font-family         : Arial,sans-serif;
   font-size           : 14px;
-  overflow            : hidden;
-  padding-top         : 15px;
-  padding-bottom      : 15px;
-  padding-right       : 10px;
-  padding-left        : 10px;
+}
+
+.tg {
+  max-width      : 400px;
+  display        : block;
+  margin-top     : 10px;
+  margin-bottom  : 10px;
+  margin-right   : auto;
+  margin-left    : auto;
+  overflow-x     : auto;
+  border-spacing : 0;
+}
+
+.tg td, .tg th {
+  padding-top       : 15px;
+  padding-bottom    : 15px;
+  padding-right     : 10px;
+  padding-left      : 10px;
+  border-top-width  : 0;
+  border-left-width : 0;
 }
 
 .tg th {
-  border-top-color    : #000000;
-  border-right-color  : #000000;
-  border-bottom-color : #000000;
-  border-left-color   : #000000;
-  border-top-style    : solid;
-  border-right-style  : solid;
-  border-bottom-style : solid;
-  border-left-style   : solid;
-  border-top-width    : 2px;
-  border-right-width  : 2px;
-  border-bottom-width : 2px;
-  border-left-width   : 2px;
-  font-family         : Arial,sans-serif;
-  font-size           : 14px;
-  font-weight         : normal;
-  overflow            : hidden;
-  padding-top         : 15px;
-  padding-bottom      : 15px;
-  padding-right       : 10px;
-  padding-left        : 10px;
+  position : sticky;
+  top      : 0;
+}
+
+.tg th > :last-child, .tg td > :last-child {
+  border-right-width : 0;
+}
+
+.tg tr > :last-child td {
+  border-bottom-width : 0;
 }
 
 .tg .tg-wp8o {
-  border-top-color    : #000000;
-  border-right-color  : #000000;
-  border-bottom-color : #000000;
-  border-left-color   : #000000;
-  text-align          : center;
-  vertical-align      : middle;
+  text-align     : center;
+  vertical-align : middle;
 }
 
 .tg .tg-mqa1 {
-  border-top-color    : #000000;
-  border-right-color  : #000000;
-  border-bottom-color : #000000;
-  border-left-color   : #000000;
-  font-weight         : bold;
-  text-align          : center;
-  vertical-align      : middle;
+  font-weight    : bold;
+  text-align     : center;
+  vertical-align : middle;
 }
 
 .tg .tg-mcqj {
-  border-top-color    : #000000;
-  border-right-color  : #000000;
-  border-bottom-color : #000000;
-  border-left-color   : #000000;
-  font-weight         : bold;
-  text-align          : left;
-  vertical-align      : top;
-}
-
-.tg .tg-col {
-  width : 80px;
-}
-
-.tg .tg-colh {
-  width : 72px;
+  font-weight : bold;
+  text-align  : left;
 }
 
 * {

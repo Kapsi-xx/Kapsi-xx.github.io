@@ -291,6 +291,10 @@ a {
 }
 
 .tg td, .tg th {
+  padding-top       : 0;
+  padding-right     : 0;
+  padding-bottom    : 0;
+  padding-left      : 0;
   border-top-width  : 0;
   border-left-width : 0;
 }
